@@ -1,0 +1,63 @@
+/* Task 6 */
+
+/* .div_1{
+    margin: -21px -8px 0px -8px;
+}
+.div_1 h1{
+    background-color: tomato;
+    color: white;
+    padding: 20px 0px 20px 70px;
+    letter-spacing: 2px;
+}
+.div_2 h1{
+    color: tomato;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 3px;
+    padding-top: 20px;
+}
+.div_2 p{
+    margin-top: -25px;
+    font-size: 100px;
+    text-align: center;
+} */
+
+/* Task 9 */
+
+/* .dropbtn{
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+  
+.dropbtn:hover, .dropbtn:focus{
+    background-color: #2980B9;
+}
+  
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {background-color: #ddd}
+  
+.show {display:block;} */
